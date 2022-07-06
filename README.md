@@ -1,3 +1,3 @@
 ## Homework 1
 
-lorem ipsum
+Github submission for the grocery store cash register emulation.
